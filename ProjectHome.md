@@ -1,0 +1,1 @@
+Provide a graphical interface to emulate your scripts without USB Rubber Ducky and then create bin payload
